@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NuKxzD+Wdk7HiVDx4hE72tKwQFzn4wPNdeq5A8OO7SBZI4RldIhzj4tnScqafr7IvCQDUralEx29USx0PKBr3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elins Bärbara\\Documents\\Programmering2024\\Lifemanegment\\Backend\\apiForLMS\\apiForLMSAPI\\apiForLMSAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elins Bärbara\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Elins Bärbara\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Elins Bärbara\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Elins Bärbara\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Elins Bärbara\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Elins Bärbara\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

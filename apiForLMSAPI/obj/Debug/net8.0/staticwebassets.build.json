@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3UBbiiUcyaU0Vufv9mQ7TgUdSE4NG0zJt99NjtSkVlU=",
+  "Source": "apiForLMSAPI",
+  "BasePath": "_content/apiForLMSAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
